@@ -1,0 +1,11 @@
+#include<iostream.h>
+#include<conio.h>
+voi main(void)
+{
+clrscr();
+char a;
+cout<<"PRESS ANY KEY";
+cin>>a;
+cout<<"Welcom to programming world!";
+getch();
+}
